@@ -81,27 +81,27 @@
 		"test-legacy": "yarn build && node ./out/test/runTestLegacy.js"
 	},
 	"devDependencies": {
-		"@types/chai": "^4.2.11",
-		"@types/glob": "^7.1.1",
+		"@types/chai": "^4.3.20",
+		"@types/glob": "^7.2.0",
 		"@types/mocha": "^7.0.2",
-		"@types/node": "^13.5.0",
-		"@types/oniguruma": "^7.0.1",
-		"@types/vscode": "^1.2.0",
-		"@typescript-eslint/eslint-plugin": "^3.4.0",
-		"@typescript-eslint/parser": "^3.4.0",
-		"chai": "^4.2.0",
-		"eslint": "^7.3.1",
-		"glob": "^7.1.4",
-		"mocha": "^7.0.1",
-		"typescript": "^3.3.1",
-		"vscode-test": "^1.0.2",
-		"vscode-textmate": "^5.1.1"
+		"@types/node": "^13.13.52",
+		"@types/oniguruma": "^7.0.5",
+		"@types/vscode": "^1.94.0",
+		"@typescript-eslint/eslint-plugin": "^3.10.1",
+		"@typescript-eslint/parser": "^3.10.1",
+		"chai": "^4.5.0",
+		"eslint": "^7.32.0",
+		"glob": "^7.2.3",
+		"mocha": "^7.2.0",
+		"typescript": "^3.9.10",
+		"vscode-test": "^1.6.1",
+		"vscode-textmate": "^5.5.0"
 	},
 	"dependencies": {
-		"@types/array.prototype.flatmap": "^1.2.1",
-		"@types/prettier": "^2.1.1",
-		"array.prototype.flatmap": "^1.2.3",
-		"prettier": "^2.1.1",
-		"prettier-plugin-firestore-rules": "^0.1.4"
+		"@types/array.prototype.flatmap": "^1.2.6",
+		"@types/prettier": "^2.7.3",
+		"array.prototype.flatmap": "^1.3.2",
+		"prettier": "^2.8.8",
+		"prettier-plugin-firestore-rules": "^0.1.5"
 	}
 }
